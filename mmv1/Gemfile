@@ -11,5 +11,5 @@ group :test do
 end
 
 group :pr_script do
-  gem 'octokit'
+  gem 'octokit', '>= 6.1.0'
 end
